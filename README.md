@@ -61,16 +61,15 @@ string connectionString = "Server="Nome do seu Banco de dados";Database=Clientes
    ```bash
    dotnet add package Selenium.WebDriver
    dotnet add package Newtonsoft.Json
-
 ```
 
 4. 🔄 **Atualize a connectionString para a conexão com o seu banco de dados no código**.
 
 
 5. ▶️ **Execute o projeto com o comando**:
+
 ```bash
 dotnet run
-
 ```
 
 
@@ -117,7 +116,7 @@ Falha ao preencher o formulário: Verifique os IDs e classes dos elementos, pois
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
-h2 align="center">📝 Licença</h2>
+<h2 align="center">📝 Licença</h2>
 <p align="center">  
 Este projeto é open-source e utiliza a Licença MIT.
 </p>
