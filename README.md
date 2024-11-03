@@ -33,7 +33,7 @@ Este projeto é uma prova de conceito (POC) de um RPA (Automação de Processo R
 ├── Program.cs         # Arquivo principal que executa a lógica da automação.
 ├── CepInfo.cs         # Classe para deserializar as informações do CEP.
 └── README.md          # Documentação do projeto.
-
+```
 ## 🗄️ Configuração do Banco de Dados
 
 Para que o projeto funcione corretamente, é necessário ter uma tabela SQL chamada `Dim_Clientes` com as seguintes colunas:
@@ -49,6 +49,7 @@ Configure a `connectionString` no arquivo `Program.cs` para se conectar ao seu b
 ```csharp
 string connectionString = "Server="Nome do seu Banco de dados";Database=Clientes;Integrated Security=True;TrustServerCertificate=True;Connection Timeout=30;";
 
+```
 
 ## 🚀 Execução do Projeto
 
