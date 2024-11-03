@@ -61,7 +61,6 @@ string connectionString = "Server="Nome do seu Banco de dados";Database=Clientes
    ```bash
    dotnet add package Selenium.WebDriver
    dotnet add package Newtonsoft.Json
-```
 
 4. 🔄 **Atualize a connectionString para a conexão com o seu banco de dados no código**.
 
