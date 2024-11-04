@@ -67,9 +67,9 @@ string connectionString = "Server="NomeDoSeuBanco";Database=Clientes;Integrated 
 
 5. ▶️ **Execute o projeto com o comando**:
 
-```bash
+  ```bash
 dotnet run
-
+  ```
 
 <h2 align="center">🔎 Funcionamento do Código</h2>
 
