@@ -1,6 +1,6 @@
 <h2 align="center">📝 Formulário Selenium</h2>
 
-Este projeto é uma prova de conceito (POC) de um RPA (Automação de Processo Robótico) que utiliza o Selenium para automatizar o preenchimento de um formulário web. Ele coleta informações de um banco de dados SQL Server, realiza uma consulta de CEP via API e insere esses dados em um formulário web.
+Este projeto é uma prova de conceito (POC) de um RPA (Automação de Processo Robótico) que utiliza o Selenium para automatizar o preenchimento de um formulário web. Ele coleta informações de um banco de dados SQL Server, realiza uma consulta de CEP via API e insere esses dados em um formulário web disponível em formulario-gl.netlify.app.
 
 <h2 align="center">✨ Funcionalidades</h2>
 
@@ -67,9 +67,9 @@ string connectionString = "Server="NomeDoSeuBanco";Database=Clientes;Integrated 
 
 5. ▶️ **Execute o projeto com o comando**:
 
-  ```bash
+   ```bash
 dotnet run
-  ```
+   ```
 
 <h2 align="center">🔎 Funcionamento do Código</h2>
 
