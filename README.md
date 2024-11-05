@@ -10,6 +10,10 @@ Este projeto é uma prova de conceito (POC) de um RPA (Automação de Processo R
 - 🔄 Navegação na interface web para preencher e submeter o formulário automaticamente.
 - ⚠️ Tratamento de erros para casos onde o CEP é inválido ou não possui dados na API.
 
+  <p align="center">
+  <img alt="BA" width="50%" src="assets/Gravando212745">
+</p>
+
 <h2 align="center">🛠️ Tecnologias Utilizadas</h2>
 
 - **C#**: Linguagem principal do projeto.
