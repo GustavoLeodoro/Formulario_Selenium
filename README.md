@@ -11,7 +11,7 @@ Este projeto é uma prova de conceito (POC) de um RPA (Automação de Processo R
 - ⚠️ Tratamento de erros para casos onde o CEP é inválido ou não possui dados na API.
 
   <p align="center">
-  <img alt="BA" width="50%" src="https://github.com/GustavoLeodoro/Formulario_Selenium/blob/main/assets/Gravando212745.mp4">
+  <img alt="BA" width="50%" src="https://www.youtube.com/watch?v=ogOeyh0o4Uc">
 </p>
 
 <h2 align="center">🛠️ Tecnologias Utilizadas</h2>
