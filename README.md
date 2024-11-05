@@ -11,7 +11,7 @@ Este projeto é uma prova de conceito (POC) de um RPA (Automação de Processo R
 - ⚠️ Tratamento de erros para casos onde o CEP é inválido ou não possui dados na API.
 
 <p align="center">
-  <img alt="Prévia da gravação" width="65%" src="assets/Gravando.gif">
+  <img alt="Prévia da gravação" width="75%" src="assets/Gravando.gif">
 </p>
 
 
